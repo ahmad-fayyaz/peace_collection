@@ -1,18 +1,18 @@
-Group ,Coll. No.,Collection Title,Description of items,Accession #,Box,Notes,date,date,,aspace uri,status in ASpace,disposition questions/ideas,Box(es)
-DG ,074,A Quaker Action Group Records,"Photograph album presented by North Vietnamese. (Includes images of dead bodies, American POWs, etc.)",,,,1965-1967,,,,,move to photo collection?,
-DG,076,Albert Bigelow Papers,"Barometer from the ""Golden Rule"" voyage",,MEM DG 076 Box 1,,1950,1959,,/repositories/8/archival_objects/863845,,,
-DG,003,American Peace Society Records,"Small items, including flags, ticket, wood cuts, and medals",,MEM DG 003 Box 1,,,,,/repositories/8/archival_objects/872803,Added to memorabilia series 2023-09-28,,
-DG ,003,American Peace Society Records,"Photogravure of Benjamin F. Trueblood from ""The Development of the Peace Idea,"" sent by The Plimpton Press.",,,,,,,/repositories/8/resources/7401,,photos?,
-DG,197,American Peace Test Records,Three signs made of aluminum can strips,,,Stored in oversize folder in Mapcase drawer,,,,,,,
-DG,107,André Trocmé and Magda Trocmé Papers,Photograph album with photos from Andre Trocme's time in St. Paul d'Eyjeaux internment camp,08A-078,Scrapbook #140,,February-March 1943,"1943, Feb-March.",,,,move to photo collection?,
-DG,066,Art for World Friendship Records,Art for World Friendship: Linoleum-cut artwork,,,,,,,,,,
-DG ,073,Central Committee for Conscientious Objectors Records,"Papier-mâché puppet; entry for ""Interview a Vet Contest""",,,,,,,,,,
-DG,056,Civilian Public Service Personal Papers and Collected Materials,Computer printout of Paul Wilhelm study,Acc. 90A-100,,,,,,,,,
-DG,056,Civilian Public Service Personal Papers and Collected Materials,"Civilian Public Service...Records, Quilt made by wives and widows of men who served in Coast & Geodetic Survey Unit (CPS #98) at (?) CPS Reunion, ca. 1990s",acc. 02A-005,,,,,,,,,
-DG ,138,Coalition for a New Foreign Policy Records,Two embossers,,,,,,,,,,
-CDGA,A0679,CODEPINK [or Code Pink]: Women's Pre-Emptive Strike for Peace,"Pink Converse signed by Sean Patch, paper cup",09A-029,MEM CDGA CodePink Box 1,,,,,,added 3/30/23,,
-CDGA,A0679,CODEPINK [or Code Pink]: Women's Pre-Emptive Strike for Peace,"Banners, apparel, memorabilia",,,,,,,/repositories/8/resources/11230,added to finding aid 3/30/23,,
-"CDGA, CDGB",COLL,Collective Box,"*CGDA Ribbon ""Tie up the Pentagon Stop Nuclear Testing"" by WILPF
+objectid,title,description,date,identifier,format,source
+mem001,A Quaker Action Group Records,"Photograph album presented by North Vietnamese. (Includes images of dead bodies, American POWs, etc.)",1965-1967,,,
+mem002,Albert Bigelow Papers,"Barometer from the ""Golden Rule"" voyage",1950,/repositories/8/archival_objects/863845,MEM DG 076 Box 1,
+mem003,American Peace Society Records,"Small items, including flags, ticket, wood cuts, and medals",,/repositories/8/archival_objects/872803,MEM DG 003 Box 1,Added to memorabilia series 2023-09-28
+mem004,American Peace Society Records,"Photogravure of Benjamin F. Trueblood from ""The Development of the Peace Idea,"" sent by The Plimpton Press.",,/repositories/8/resources/7401,,
+mem005,American Peace Test Records,Three signs made of aluminum can strips,,,,Stored in oversize folder in Mapcase drawer
+mem006,André Trocmé and Magda Trocmé Papers,Photograph album with photos from Andre Trocme's time in St. Paul d'Eyjeaux internment camp,February-March 1943,,Scrapbook #140,
+mem007,Art for World Friendship Records,Art for World Friendship: Linoleum-cut artwork,,,,
+mem008,Central Committee for Conscientious Objectors Records,"Papier-mâché puppet; entry for ""Interview a Vet Contest""",,,,
+mem009,Civilian Public Service Personal Papers and Collected Materials,Computer printout of Paul Wilhelm study,,,,
+mem010,Civilian Public Service Personal Papers and Collected Materials,"Civilian Public Service...Records, Quilt made by wives and widows of men who served in Coast & Geodetic Survey Unit (CPS #98) at (?) CPS Reunion, ca. 1990s",,,,
+mem011,Coalition for a New Foreign Policy Records,Two embossers,,,,
+mem012,CODEPINK [or Code Pink]: Women's Pre-Emptive Strike for Peace,"Pink Converse signed by Sean Patch, paper cup",,,MEM CDGA CodePink Box 1,added 3/30/23
+mem013,CODEPINK [or Code Pink]: Women's Pre-Emptive Strike for Peace,"Banners, apparel, memorabilia",,/repositories/8/resources/11230,,added to finding aid 3/30/23
+mem014,Collective Box,"*CGDA Ribbon ""Tie up the Pentagon Stop Nuclear Testing"" by WILPF
 *CDGA: Mennonite Church magnets acc.05A-022
 *CDGAFriends Coordinating Comittee on Peace: Small plastic sign ""Stomp Out Violence!"" (Orange letters & white background
 *2 tags ""Refuse to be drafted"" From Alban Man Jr. circa WWII
@@ -35,28 +35,9 @@ CDGA,A0679,CODEPINK [or Code Pink]: Women's Pre-Emptive Strike for Peace,"Banner
 *XX Congresso-Internacional Americanistas. Rio de Janeiro ^1876 Brasil. 1922. Given by A.C.Simoens da Silva. Medal (2.5"" round text on one side with flower symbol; head of... with crown on other ide"" xx CIA.
 *CDGB Germany International Anti-Kriegsmuseum
 *CDGA Peace Buttons[acc. 04A-076]
-*Brass Plaque 6""x5"", Acc. 93A-48, Awarded for community service by the lambertville1new hope kiwanis club, 05/28/1980","
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-",,,,,,,,,
-CDGB,COLL,Collective Box,"Germany: Misc. photograph album (Includes German anti-war exhibits, international goodwill projects, images of Ludwig Quidde, Marcelle Capy, Gertrud Baer, etc.)",,,,1929-1932,1929-1932,,,,move to photo collection?,
-CDGs/Subj. File,COLL,Collective Box,"*CDGB: Japan -Nezuko Ceremonial flag; gift from ?city of Japan 
+*Brass Plaque 6""x5"", Acc. 93A-48, Awarded for community service by the lambertville1new hope kiwanis club, 05/28/1980",,,,
+mem015,Collective Box,"Germany: Misc. photograph album (Includes German anti-war exhibits, international goodwill projects, images of Ludwig Quidde, Marcelle Capy, Gertrud Baer, etc.)",1929-1932,,,
+mem016,Collective Box,"*CDGB: Japan -Nezuko Ceremonial flag; gift from ?city of Japan 
 *2 blue with red trim caps ""Vets for Peace in Vietnam""/""Veterans for Peace"" Given by Caroline Berger Acc: 04A-025
 *Peace cranes & peace bookmarks made by children involved with the Young Explorers' Peace Project, Nie Center, Chester (PA) summer 2008
 *Paper puppet, movable President Jimmy Carter ca. 1979 Iranian? Translation: """"
@@ -81,10 +62,10 @@ CDBG: Germany-Augspurg, Anita (framed medallion)
 *CDGA: Mennonite church USA 2002
 *CDGA 3-D glasses from The True Minority May 2005 Acc: 05A-026
 *Plastic Bag ""Peace MNP""
-*Paper Shop Rite bag from Carla Johnston acc.10A-056",,,,,,,,,,
-DG,COLL,Collective Box,"DGs 000-199 Collective box, large items",,,,,,,,,,
-DG ,COLL,Collective Box,Miscellaneous items,,MEM DG 100-DG 149,,,,,,,,
-DG ,COLL,Collective Box,"Miscellaneous memorabilia from various collections including DG 151, 152, 156, 159, 168, 169, 176, 190, and 197. 
+*Paper Shop Rite bag from Carla Johnston acc.10A-056",,,,
+mem017,Collective Box,"DGs 000-199 Collective box, large items",,,,
+mem018,Collective Box,Miscellaneous items,,,MEM DG 100-DG 149,
+mem019,Collective Box,"Miscellaneous memorabilia from various collections including DG 151, 152, 156, 159, 168, 169, 176, 190, and 197. 
 from DG 151 Peace Action earrings;
 from DG 152: rubber stamps; 
 from DG 156: a red ""Freeze Voter"" balloon;
@@ -93,8 +74,8 @@ from DG 158: a General Eletric Co. pin;
 from DG 169: a bookmark/card with text in English and Japanese: ""No more Hiroshima. No more Nagasaki. We should rid the Earth of all nuclear weapons for our children. New Japan Women's Association, Kyoto"";
 from DG 176: a herbarium and a lock of hair; and
 from DG 190: paper cranes from the Childrens Campaign for Nuclear Disarmament;
-from DG 197: a plastic bookmark",,MEM DG 150-DG 199,,,,,,,,
-DG ,COLL,Collective Box,"DG 201: John Dears drivers license, Red Cross-World Trade Center ID Card, Button ""Team Red Cross"", Pax Christi Demonstration ribbons
+from DG 197: a plastic bookmark",,,MEM DG 150-DG 199,
+mem020,Collective Box,"DG 201: John Dears drivers license, Red Cross-World Trade Center ID Card, Button ""Team Red Cross"", Pax Christi Demonstration ribbons
 DG 207: School of the Americas watch Record
 DG 208: Borosilicate glass with explanation of what it is and its benefits
 DG 212: Plaque printed in Madrid (Spain) to John McConnell, 1996
@@ -112,8 +93,8 @@ DG 233: Small hand-sign ""women say no! to war
 DG 236: 2 Paper dolls from Japan
 ALL DG 222 ARE CORA WEISS
 ALL DG 233 ARE DOROTHY MARDER
-",,,,,,,,,,
-DG ,COLL,Collective Box,"Miscellaneous memorabilia from various collections including DG 207: two sets of handed knitted baby booties
+",,,,
+mem021,Collective Box,"Miscellaneous memorabilia from various collections including DG 207: two sets of handed knitted baby booties
 Alliance for Nuclear Accountability
 DG 253: Military Families Speak Out magnet ""bring them home""
 Speak now of forever hold America's nuclear waste baseball hat
@@ -148,87 +129,86 @@ Canvas Banner
 Virginia License Plate
 DG 217: Sugar packets with images of Jane addams, harriet Tubman, Susan B. Anthony, Carry Nation, Clara Barton
 DG 250: Ionizing Radiation Dose Ranges double sided
-DG 203: Pages from autograph book ""what's your vision of peace?""",,,,,,,,,,
-DG ,COLL,Collective Box,cloth items (including item #s 0109-0111,,,,,,,,,cloth items,
-Subject File,COLL,Collective Box,"Ben and Jerry's ""imagine swirled peace"" carton and a Peace tea can",,,,ca 2014-2015,,,,,,
-DG,017,Committee for Nonviolent Action Records,"Financial Ledger for Non-Violent Action Against Nuclear Weapons, 1957 (December. 23)-1959 (Jan. 14) [predecessor of CNVA]",,,,,,,,,,
-DG,222,Cora Weiss Papers,,,,,,,,,,,
-CDGA,A1539,Deborah Jacoby,"*Plaque ""In Appreciation of servie to Monmoth Community Action Program May 1, 1967""
+DG 203: Pages from autograph book ""what's your vision of peace?""",,,,
+mem022,Collective Box,cloth items (including item #s 0109-0111,,,,
+mem023,Collective Box,"Ben and Jerry's ""imagine swirled peace"" carton and a Peace tea can",ca 2014-2015,,,
+mem024,Committee for Nonviolent Action Records,"Financial Ledger for Non-Violent Action Against Nuclear Weapons, 1957 (December. 23)-1959 (Jan. 14) [predecessor of CNVA]",,,,
+mem025,Cora Weiss Papers,,,,,
+mem026,Deborah Jacoby,"*Plaque ""In Appreciation of servie to Monmoth Community Action Program May 1, 1967""
 *Plaque Monmouth Campaign for Nuclear Disarmament Peacemaker of the Year 1989
-*Peace-March canvas bag ""Peace-March Paris-81 Moskva-82 Washington-83""",,,,,,,/repositories/8/resources/11230,,,
-DG,053,Devere Allen Papers,63 metal printer's block engraving plates donated by Charles Chatfield,2016-037,MEM DG 053 Box 5,,,,,,,,
-DG,053,Devere Allen Papers,Printers' blocks used in publications (box 1),,MEM DG 053 Box 1,,,,,,,,
-DG,053,Devere Allen Papers,Printers' blocks used in publications (box 2),,MEM DG 053 Box 2,,,,,,,,
-DG,053,Devere Allen Papers,Printers' blocks used in publications (box 3),,MEM DG 053 Box 3,,,,,,,,
-DG,053,Devere Allen Papers,Printers' blocks used in publications (box 4),,MEM DG 053 Box 4,,,,,,,,
-DG ,053,Devere Allen Papers,Printer's block of Marie Allen's drawing for a Christmas card,,MEM DG 053 Box 6,Paper-wrapped: no container,1936,,,,,,
-DG,070,E. Raymond Wilson Papers,"Awards, certificates, autographs, and other personal items",,,,,,,,,,
-DG,133,"Elkinton Family Doukhobor Papers
-","Scrapbook ""Doukhboritsi"" (vol. I), compiled by Joseph S. Elkinton",,,,1884-1899,,,,,scrapbook,
-DG,133,"Elkinton Family Doukhobor Papers
-","Scrapbook ""Doukhboritsi"" (vol. II), compiled by Joseph S. Elkinton",,,,1899-1902,,,,,scrapbook,
-DG,133,"Elkinton Family Doukhobor Papers
-","Scrapbook ""Doukhboritsi"" (vol. III), compiled by Joseph S. Elkinton",,,,1900-1904,,,,,scrapbook,
-DG,133,"Elkinton Family Doukhobor Papers
-","Scrapbook ""Doukhboritsi"" (vol. IV), compiled by Joseph S. Elkinton",,,,1897-1903,,,,,scrapbook,
-DG ,013,Fellowship of Reconciliation (U.S.) Records,Linoleum cuts made by 7th grade Bosnian students [from the Papers of Doug Hostetter (Bosnian Student Project)].,,,,ca. 1995,,,/repositories/8/resources/7041,,, 
-DG ,013,Fellowship of Reconciliation (U.S.) Records,Books of prints from linoleum cuts made by Bosnian Students [from the Papers of Doug Hostetter (Bosnian Student Project)].,,,,ca. 1995,,,/repositories/8/resources/7041,,,
-DG,047,Friends Committee on National Legislation Records,"Financial Ledger, 1943-1944",acc. 93A-045,,,,,,,,,
-DG,047,Friends Committee on National Legislation Records,"Financial Ledger, 1944-1945",Acc. 93A-045,,,,,,,,,
-DG,047,Friends Committee on National Legislation Records,"Financial Ledger, 1945-1946",acc. 93A-045,,,,,,,,,
-DG,047,Friends Committee on National Legislation Records,"Financial Ledger, 1946-1948",acc. 93A-045,,,,,,,,,
-DG,047,Friends Committee on National Legislation Records,"Finanial Ledger, 1978",acc. 93A-045,,,,,,,,,
-CDGB,B1160,"Gandhi, Mohandas K., 1919-","India: Gandhi, negatives taken by one of Gandhis family members",,,,,,,,,,
-DG,236,George Willoughby and Lillian Willoughby Papers,Stoles and hats ,,,,1995,,,,,cloth,
-DG,147,Great Peace March for Global Nuclear Disarmament Records,Keys to cities given to marchers,,,Heavy - Handle with Care,,,,,,,
-DG,147,Great Peace March for Global Nuclear Disarmament Records," misc cloth items. Ribbon from demo at Reflecting Pool, Washington, DC 1986 ",97A-039,,,,,,,,cloth,
-DG,147,Great Peace March for Global Nuclear Disarmament Records,Ribbon on spool,,,On display in Reading Room 2024-09,,,,,,,
-DG,147,Great Peace March for Global Nuclear Disarmament Records,Ribbon pieces,,,,,,,,,,
-DG,147,Great Peace March for Global Nuclear Disarmament Records,Proclamation from the City of Los Angeles,Acc. 97A-039,,,,,,,,,
-DG,147,Great Peace March for Global Nuclear Disarmament Records,"Miscellaneous items (including proclamations, plaques, sculptures, and letters)",acc. 97A-39,,,,,,,,,
-DG ,147,Great Peace March for Global Nuclear Disarmament Records,"Wooden keys, fake dynamite and other items given to marchers ",,,,,,,,,,
-CDGB,B0769,"Greenham Common Women's Peace Camp, 1981-1991",Two pieces of fencing from Greenham,,MEM CDGB Great Britain box 2,,,,,/repositories/8/resources/11239,,,
-DG ,005,Hannah J. Bailey Papers,Hannah J. Bailey's wedding dress shirtwaist.,,,,,,,/repositories/8/resources/6967,,cloth,
-DG ,005,Hannah J. Bailey Papers,Guest book.,Acc.98A-014,,,,,,/repositories/8/resources/6967,,,
-DG ,005,Hannah J. Bailey Papers,Cups and saucers inscribed with names of Hannah Bailey and Moses Bailey.,,,,,,,/repositories/8/resources/6967,,,
-DG,063,Homer A. Jack Papers,"Awards given to Homer A. Jack. (Peace and Justice award, Peace through Religion, Defender of Peace.) ",,,,"1992, 1976, 1987",,,,,,
-DG ,140,Horace Gundry Alexander Papers,"Wooden box made at Tagore school, containing small flag and Gandhi cap",Acc. 2012-070,,,,,,,,,
-DG,150,International Peace Walk Records,"Gift from citizens of Moscow, Iowa ",acc. 88A-110,,,1988,1988,,,,,
-DG ,150,International Peace Walk Records,Miscellaneous items (including flags),,,,,,,,,,
-DG,001,Jane Addams Papers,"Miscellaneous memorabilia and ephemera, including medals and medallions, an empty tomato can, a key to Cedar Creek mill, and a sugar packet depicting Jane Addams' face.",,Box: DG 001: Memorabilia: 1,,,,,/repositories/8/resources/7421,Found in memorabilia series 2023-09-28,,
-DG,001,Jane Addams Papers,"Gourd dolls (6 small, 1 large) made by Mary Phillips, depicting Jane Addams and six children of Hull-House in Chicago.",acc. 61-40,Box: DG 001: Memorabilia: 3,,,,,/repositories/8/resources/7421,Found in memorabilia series 2023-09-28,,
-DG,001,Jane Addams Papers,Various editions of Little Blue Book.,,,,,,,/repositories/8/resources/7421,Found in memorabilia series 2023-09-28,,2
-DG ,001,Jane Addams Papers,"""A tribute to Jane Addams"" –– from the German Red Cross ",,,,1921,,,/repositories/8/resources/7421,Found in memorabilia series 2023-09-28,,
-DG ,001,Jane Addams Papers,Steel plate engraving of John H. Addams.,,,,,,,/repositories/8/resources/7421,Found in memorabilia series 2023-09-28,photos?,
-CDGA,A1557,Jewish Women's Committee to End the Occupation of the West Bank and Gaza,Tear gas canister and rubber bullets used by IDF in the West Bank,Acc. 95A-21,,,,,,/repositories/8/resources/11230,RM added a file and basic description about these items to archivespace record,,
-DG,212,John McConnell Papers,"Seal, rubber stamps.",,,,,,,,,,
-DG ,262,Juanita Nelson and Wallace F. Nelson Papers,"Miscellaneous items, including an award (Earth Day 2006), a leather hat, a record book, and a photo",,,,2006,,,,added to finding aid 3/30/23,,
-DG,054,Lake Mohonk Conferences on International Arbitration Records,Metal engraving plates,,,,,,,,,,
-DG,054,Lake Mohonk Conferences on International Arbitration Records,Metal Engraving Plates,,,,,,,,,,
-DG,090,Lawrence Scott Papers,Bell and glass from burned Mississippi churches ,,,,,,,,,,
-CDGB,B1127,"Lester, Muriel, 1926-1968",Undated photographic plate,,MEM CDGB Great Britain box 1,,,,,/repositories/8/resources/11239,,move to photo collection?,
-DG ,238,Louis A. Friedman Papers,Miscellaneous items (including flags and memorabilia related to 1980s-era US-Soviet Peace efforts),,,,1980s,,,,,,
-CDGA,A3018,Marguerite and Richard Tirk,"Canvas hat with patches: USA flag; War is not healthy for children and other things; Peace symbol; National Audubon Society. Printed publication: Unvanquished, We March; Hibaku Fujin No Tsudoi; Aug. 1976; No. 3. Cloth saddle bag. Paddle shapped sign or drum with attached wood stick; Japanese characters with Tirk's name on the back and no. 29.","91A-125
-95-60",,,,,,/repositories/8/resources/11230,,,
-CDGA,A3018,Marguerite and Richard Tirk,Memorabilia; One Thousand Cranes from the Oosaku Women Hibakuska (wounded by the Bomb) Japan from Margarite Tirk,92A-45,,,,,,/repositories/8/resources/11230,,,
-DG ,214,Marion Bromley and Ernest Bromley Papers,Three personalized wallets ,Acc. 03A-063,,,,,,,,,
-DG ,082,Mildred Scott Olmsted Papers,"""Memory Box""",,,,,,,,,,
-DG ,082,Mildred Scott Olmsted Papers,Replica of Liberty Bell,,,,,,,,,,
-DG ,082,Mildred Scott Olmsted Papers,oil painting of Mildred Scott Olmstead,,,,,,,,,,
-DG,191,Milton Lowenthal Papers,"Milton Lowenthal Papers, Citations, etc. ",,,,,,,,,,
-DG,191,Milton Lowenthal Papers,"Miscellaneous items (including proclamations, clippings, a certificate designating the International Philosophers for the Prevention of Nuclear Omnicide as Peace Messengers, a picture book of the aftermath of the bombing of Hiroshima, a ""Nixon now!"" fan, a plastic bag from a 1988 USA-Japanese Summit, a paper crane necklace, and exhibit materials from Kazuaki Kita)",,,,,,,,,,
-DG ,113,Murray Polner Papers,, ,,,,,,,,,
-DG,023,National Council for Prevention of War Records,Metal press of the National Council for Prevention of War Records's logo. ,,,,,,,,,,
-DG,189,New Society Publishers Records,"Miscellaneous items (including stamps, labels, and suspenders given to Barbara Hirshkowitz)",,,,,,,,,,
-CDGB,B0905,"No More War Movement, 1922-1936",Undated photographic plate,,,,,,,/repositories/8/resources/11239,,,
-CDGA,,Not found,Sara J. Willowbee,Acc. 2015-076,,,,,,/repositories/8/resources/11230,,awards,
-CDGA,,Not found,"Award given by the Sector Commanders Forum-Liberation War '71, December 2011",2015-0761,,,,,,/repositories/8/resources/11230,,,
-CDGs,,Not found,"CDGs/Misc./Subject File, large items",,,,,,,,,,
-DG,,Not found,"cloth items (including item #s 0100, 0102-0107)",,,,,,,,,cloth items,
-DG,,Not found,"Oil painting, ""Aimes Vous Les Uns Les Autre' by Howard S. Hoffman, 2004",acc. 04A-078; Alice and John Hoffman,,,,,,,,,
-DG,,Not found,,,,,,,,,,,
-DG ,000-099,Not found,"Miscellaneous items (including a balloon from the War Resisters League ""Blow Up Balloons Not People""  (1986), a  Philadelphia Detention Center bracelet, a bullet from a WWI French battlefield, a steel-cut design on a woodblock by Franz Demarlier (1947), a fabric arm band)",,MEM DG 000-DG 099,,,,,,,,
-Subject File,,Not found,"*Piece of Shrapnel on card, with photo of a Zepplin (?) and newsclipping re: 2 brothers killed in a Zepplin ca 1916 from Gillet Scrapbook
+*Peace-March canvas bag ""Peace-March Paris-81 Moskva-82 Washington-83""",,/repositories/8/resources/11230,,
+mem027,Devere Allen Papers,63 metal printer's block engraving plates donated by Charles Chatfield,,,MEM DG 053 Box 5,
+mem028,Devere Allen Papers,Printers' blocks used in publications (box 1),,,MEM DG 053 Box 1,
+mem029,Devere Allen Papers,Printers' blocks used in publications (box 2),,,MEM DG 053 Box 2,
+mem030,Devere Allen Papers,Printers' blocks used in publications (box 3),,,MEM DG 053 Box 3,
+mem031,Devere Allen Papers,Printers' blocks used in publications (box 4),,,MEM DG 053 Box 4,
+mem032,Devere Allen Papers,Printer's block of Marie Allen's drawing for a Christmas card,1936,,MEM DG 053 Box 6,Paper-wrapped: no container
+mem033,E. Raymond Wilson Papers,"Awards, certificates, autographs, and other personal items",,,,
+mem034,"Elkinton Family Doukhobor Papers
+","Scrapbook ""Doukhboritsi"" (vol. I), compiled by Joseph S. Elkinton",1884-1899,,,
+mem035,"Elkinton Family Doukhobor Papers
+","Scrapbook ""Doukhboritsi"" (vol. II), compiled by Joseph S. Elkinton",1899-1902,,,
+mem036,"Elkinton Family Doukhobor Papers
+","Scrapbook ""Doukhboritsi"" (vol. III), compiled by Joseph S. Elkinton",1900-1904,,,
+mem037,"Elkinton Family Doukhobor Papers
+","Scrapbook ""Doukhboritsi"" (vol. IV), compiled by Joseph S. Elkinton",1897-1903,,,
+mem038,Fellowship of Reconciliation (U.S.) Records,Linoleum cuts made by 7th grade Bosnian students [from the Papers of Doug Hostetter (Bosnian Student Project)].,ca. 1995,/repositories/8/resources/7041,,
+mem039,Fellowship of Reconciliation (U.S.) Records,Books of prints from linoleum cuts made by Bosnian Students [from the Papers of Doug Hostetter (Bosnian Student Project)].,ca. 1995,/repositories/8/resources/7041,,
+mem040,Friends Committee on National Legislation Records,"Financial Ledger, 1943-1944",,,,
+mem041,Friends Committee on National Legislation Records,"Financial Ledger, 1944-1945",,,,
+mem042,Friends Committee on National Legislation Records,"Financial Ledger, 1945-1946",,,,
+mem043,Friends Committee on National Legislation Records,"Financial Ledger, 1946-1948",,,,
+mem044,Friends Committee on National Legislation Records,"Finanial Ledger, 1978",,,,
+mem045,"Gandhi, Mohandas K., 1919-","India: Gandhi, negatives taken by one of Gandhis family members",,,,
+mem046,George Willoughby and Lillian Willoughby Papers,Stoles and hats ,1995,,,
+mem047,Great Peace March for Global Nuclear Disarmament Records,Keys to cities given to marchers,,,,Heavy - Handle with Care
+mem048,Great Peace March for Global Nuclear Disarmament Records," misc cloth items. Ribbon from demo at Reflecting Pool, Washington, DC 1986 ",,,,
+mem049,Great Peace March for Global Nuclear Disarmament Records,Ribbon on spool,,,,On display in Reading Room 2024-09
+mem050,Great Peace March for Global Nuclear Disarmament Records,Ribbon pieces,,,,
+mem051,Great Peace March for Global Nuclear Disarmament Records,Proclamation from the City of Los Angeles,,,,
+mem052,Great Peace March for Global Nuclear Disarmament Records,"Miscellaneous items (including proclamations, plaques, sculptures, and letters)",,,,
+mem053,Great Peace March for Global Nuclear Disarmament Records,"Wooden keys, fake dynamite and other items given to marchers ",,,,
+mem054,"Greenham Common Women's Peace Camp, 1981-1991",Two pieces of fencing from Greenham,,/repositories/8/resources/11239,MEM CDGB Great Britain box 2,
+mem055,Hannah J. Bailey Papers,Hannah J. Bailey's wedding dress shirtwaist.,,/repositories/8/resources/6967,,
+mem056,Hannah J. Bailey Papers,Guest book.,,/repositories/8/resources/6967,,
+mem057,Hannah J. Bailey Papers,Cups and saucers inscribed with names of Hannah Bailey and Moses Bailey.,,/repositories/8/resources/6967,,
+mem058,Homer A. Jack Papers,"Awards given to Homer A. Jack. (Peace and Justice award, Peace through Religion, Defender of Peace.) ","1992, 1976, 1987",,,
+mem059,Horace Gundry Alexander Papers,"Wooden box made at Tagore school, containing small flag and Gandhi cap",,,,
+mem060,International Peace Walk Records,"Gift from citizens of Moscow, Iowa ",1988,,,
+mem061,International Peace Walk Records,Miscellaneous items (including flags),,,,
+mem062,Jane Addams Papers,"Miscellaneous memorabilia and ephemera, including medals and medallions, an empty tomato can, a key to Cedar Creek mill, and a sugar packet depicting Jane Addams' face.",,/repositories/8/resources/7421,Box: DG 001: Memorabilia: 1,Found in memorabilia series 2023-09-28
+mem063,Jane Addams Papers,"Gourd dolls (6 small, 1 large) made by Mary Phillips, depicting Jane Addams and six children of Hull-House in Chicago.",,/repositories/8/resources/7421,Box: DG 001: Memorabilia: 3,Found in memorabilia series 2023-09-28
+mem064,Jane Addams Papers,Various editions of Little Blue Book.,,/repositories/8/resources/7421,,Found in memorabilia series 2023-09-28
+mem065,Jane Addams Papers,"""A tribute to Jane Addams"" –– from the German Red Cross ",1921,/repositories/8/resources/7421,,Found in memorabilia series 2023-09-28
+mem066,Jane Addams Papers,Steel plate engraving of John H. Addams.,,/repositories/8/resources/7421,,Found in memorabilia series 2023-09-28
+mem067,Jewish Women's Committee to End the Occupation of the West Bank and Gaza,Tear gas canister and rubber bullets used by IDF in the West Bank,,/repositories/8/resources/11230,,RM added a file and basic description about these items to archivespace record
+mem068,John McConnell Papers,"Seal, rubber stamps.",,,,
+mem069,Juanita Nelson and Wallace F. Nelson Papers,"Miscellaneous items, including an award (Earth Day 2006), a leather hat, a record book, and a photo",2006,,,added to finding aid 3/30/23
+mem070,Lake Mohonk Conferences on International Arbitration Records,Metal engraving plates,,,,
+mem071,Lake Mohonk Conferences on International Arbitration Records,Metal Engraving Plates,,,,
+mem072,Lawrence Scott Papers,Bell and glass from burned Mississippi churches ,,,,
+mem073,"Lester, Muriel, 1926-1968",Undated photographic plate,,/repositories/8/resources/11239,MEM CDGB Great Britain box 1,
+mem074,Louis A. Friedman Papers,Miscellaneous items (including flags and memorabilia related to 1980s-era US-Soviet Peace efforts),1980s,,,
+mem075,Marguerite and Richard Tirk,"Canvas hat with patches: USA flag; War is not healthy for children and other things; Peace symbol; National Audubon Society. Printed publication: Unvanquished, We March; Hibaku Fujin No Tsudoi; Aug. 1976; No. 3. Cloth saddle bag. Paddle shapped sign or drum with attached wood stick; Japanese characters with Tirk's name on the back and no. 29.",,/repositories/8/resources/11230,,
+mem076,Marguerite and Richard Tirk,Memorabilia; One Thousand Cranes from the Oosaku Women Hibakuska (wounded by the Bomb) Japan from Margarite Tirk,,/repositories/8/resources/11230,,
+mem077,Marion Bromley and Ernest Bromley Papers,Three personalized wallets ,,,,
+mem078,Mildred Scott Olmsted Papers,"""Memory Box""",,,,
+mem079,Mildred Scott Olmsted Papers,Replica of Liberty Bell,,,,
+mem080,Mildred Scott Olmsted Papers,oil painting of Mildred Scott Olmstead,,,,
+mem081,Milton Lowenthal Papers,"Milton Lowenthal Papers, Citations, etc. ",,,,
+mem082,Milton Lowenthal Papers,"Miscellaneous items (including proclamations, clippings, a certificate designating the International Philosophers for the Prevention of Nuclear Omnicide as Peace Messengers, a picture book of the aftermath of the bombing of Hiroshima, a ""Nixon now!"" fan, a plastic bag from a 1988 USA-Japanese Summit, a paper crane necklace, and exhibit materials from Kazuaki Kita)",,,,
+mem083,Murray Polner Papers,,,,,
+mem084,National Council for Prevention of War Records,Metal press of the National Council for Prevention of War Records's logo. ,,,,
+mem085,New Society Publishers Records,"Miscellaneous items (including stamps, labels, and suspenders given to Barbara Hirshkowitz)",,,,
+mem086,"No More War Movement, 1922-1936",Undated photographic plate,,/repositories/8/resources/11239,,
+mem087,Not found,Sara J. Willowbee,,/repositories/8/resources/11230,,
+mem088,Not found,"Award given by the Sector Commanders Forum-Liberation War '71, December 2011",,/repositories/8/resources/11230,,
+mem089,Not found,"CDGs/Misc./Subject File, large items",,,,
+mem090,Not found,"cloth items (including item #s 0100, 0102-0107)",,,,
+mem091,Not found,"Oil painting, ""Aimes Vous Les Uns Les Autre' by Howard S. Hoffman, 2004",,,,
+mem092,Not found,,,,,
+mem093,Not found,"Miscellaneous items (including a balloon from the War Resisters League ""Blow Up Balloons Not People""  (1986), a  Philadelphia Detention Center bracelet, a bullet from a WWI French battlefield, a steel-cut design on a woodblock by Franz Demarlier (1947), a fabric arm band)",,,MEM DG 000-DG 099,
+mem094,Not found,"*Piece of Shrapnel on card, with photo of a Zepplin (?) and newsclipping re: 2 brothers killed in a Zepplin ca 1916 from Gillet Scrapbook
 *Christmas tree decorations
 *Paper badge from presidential campaign 1952
 *Replica of Nobel Peace Prize
@@ -243,45 +223,45 @@ Subject File,,Not found,"*Piece of Shrapnel on card, with photo of a Zepplin (?)
 *Fake money with George Bush's picture 2004
 *""Freedom Bracelet"" made of yarn woven by Tibetan Nuns Project
 * Small card ""End the War Now Local 1199""
-*Car magnet with text ""Cultivate Peace"" made by The Hunger Site, 2005 [ac. 05A-013",,,,,,,,,,
-,,Not found,"Glass paperweight ""NO MORE WAR""",,,,,,,,,,
-,,Not found,Printing blocks: photos of A.J. Muste,,,,,,,,,photos?,
-,,Not found,Portrait of Frederick J. Libby by Mary Ann Walburn; painted from photograph; winter 1973-1974,,,,,,,,,,
-,,Not found,Board game: World Without War ,,,,,,,,,game,
-,,Not found,Peace prizes and awards; Nobel Peace Prize mug,,,,,,,,,awards,
-,,Not found,"Item #0058, Portrait of A.J. Muste by Sidney Chafetz, 23"" x 34"" black and white",,,,,,,,,,
-DG,104,Peace Pilgrim Papers,Toothbrush and other items used by Peace Pilgrim,,,,,,,,,,
-DG ,104,Peace Pilgrim Papers,Clothing worn by Peace Pilgrim,,,,,,,,,cloth,
-DG ,030,Pennsylvania Committee for Total Disarmament Records,Printers' blocks and plates.,,,,,,,,added to finding aid 3/30/23,,
-DG ,030,Pennsylvania Committee for Total Disarmament Records,Cash record of the Treasurer.,,,,April 1931-June 1936,1931 (April)-1936(June),,,added to finding aid 3/30/23,,
-DG ,109,Peoples Mandate Committee Records,"Commemoration booklet with signatures from Chilean women, undated. ",,,,,,,,,,
-DG,183,Philadelphia Committee in Solidarity With the People of El Salvador Records,Donation can from CISPES demonstration,95A-66,,,,,,,,,
-DG ,183,Philadelphia Committee in Solidarity With the People of El Salvador Records,CISPES Miscellaneous items (including paper masks and Salvadoran keepsakes),,,,,,,,,,
-DG ,141,Promoting Enduring Peace Records,"Radio for Peace International certificate of Appreciation awarded to Promoting Enduring Peace, Adin Ballou Peace Award presented to Howard and Alice Frazier",Acc. 05A - 069,,,"March 13, 1993",,,,,,
-DG,000,Swarthmore College Peace Collection Records,Asa Watkins' Drawing # 38-59,,,,,,,,,,
-DG,000,Swarthmore College Peace Collection Records,Asa Watkins' Drawing #41-61,,,,,,,,,,
-DG,000,Swarthmore College Peace Collection Records,Asa Watkins' Drawings #1-19,,,,,,,,,,
-DG,000,Swarthmore College Peace Collection Records,Asa Watkins' Drawings #20-40,,,,,,,,,,
-DG,000,Swarthmore College Peace Collection Records,"Asa Watkins' Drawings Photos (8"" x 10"") and Negatives: #38-60",,,,,,,,,,
-DG ,000,Swarthmore College Peace Collection Records,A replica of the Berlin Freedom Bell.,Acc. 55-8,,,,,,/repositories/8/resources/11292,,,
-DG ,000,Swarthmore College Peace Collection Records,"Peace flags, Swarthmore College.",Acc. 03A-060,,,,,,,,cloth items,
-DG,038,Universal Peace Union Records,"French Peace Medals presented to Alfred H. Love and the Universal Peace Union; medals, badges, and ticketbook from the St. Louis Exposition and the Rome Peace Congress.",,,,, 1872-1904,,,,,
-DG,038,Universal Peace Union Records,Two large 19th century wooden signs,,,"As of 2024 one of them is displayed in the SCPC workroom, and one is possibly wrapped and resides above the unprocessed AV material in the SCPC workroom",,,,,,,
-DG,038,Universal Peace Union Records,One large 19th century wooden sign,,,As of 2024 displayed in the Special Collections Reading Room,,,,,,,
-DG ,038,Universal Peace Union Records,Wooden photo frame made by Prisoner in Eastern Penitentiary and presented to A.H. Love.,,,,,,,,,,
-DG ,038,Universal Peace Union Records,"""Scratch Book for Subscriptions.""",,,,ca. 1885-1899,ca. 1885-1899,,,,,
-DG ,038,Universal Peace Union Records,"Alfred H Love's leather briefcase and Hannah Bailey's ribbon souvenir from the World's Fair, Chicago, ",,,,1893,,,,,,
-DG ,038,Universal Peace Union Records,Membership book ,,,,1885-1920,1885-1920,,,,,
-DG ,119,Victor Paschkis Papers,AAAS Scientific Freed and Responsibility Award,Acc. 95A-31,,,1986,1986,,,,awards,
-DG,162,Walkabout Peace and Justice Records,Shoulderbag (with text in Thai) donated by Barbera Hirshkowitz,acc. 07A-035,,,2007,,,,,cloth items,
-DG,043,Women's International League for Peace and Freedom Records,Chester Branch. 2 glass bottles,,,,,,,,,,
-DG,043,Women's International League for Peace and Freedom Records,JAPA Award,acc. 08A-023,,,,,,,,,
-DG,043,Women's International League for Peace and Freedom Records,"Patches made by women for Hiroshima Memorial Quilt (Removed from backing, ca 1980s",,,,,,,,,,
-DG,043,Women's International League for Peace and Freedom Records,"Item #0058, Portrait of A.J. Muste by Sidney Chafetz, 23"" x 34"" black and white",acc. 08A-023,,,,,,,,cloth items,
-DG,043,Women's International League for Peace and Freedom Records,"Metal sign: ""Women's International League for Peace & Freedom Pennsylvania Branch"" 24.25 x 8.25 x 1.25""",,,As of 2024 one is displayed in the SCPC workroom (above sink cabinets); one is wrapped ,,,,,,,
-DG ,043,Women's International League for Peace and Freedom Records,Photograph album (with signatures) from Chicago meeting,,,,1924,1924,,,,photos?,
-DG ,043,Women's International League for Peace and Freedom Records,"Award Plaque and Photograph of Santa Cruz City Youth Soccer Team, (sponsored by WILPF branch)",Acc. 11A-057,,,2007,2007,,,,award,
-DG ,043,Women's International League for Peace and Freedom Records,Origami Cranes ,,,,,,,,,,
-CDGB,B0285,"World Movement for World Federal Government [for CDG-B France, see Mouvement Universel pour une Confédération Mondiale]","Small bowl with text ""Stop War. The 20E Century Achievement. Mouvement Universal Pour Un Gouvernment Federal Mondial, Montreux, 1947""",,,,1947,,,/repositories/8/resources/11239,,,
-,COLL,Collective Box,"Cloth Items Collection: T-Shirts / Shirts, Box 29. Located on top of Mapcase 1 (bottom of basement ramp)",,,,,,,,,,
-,COLL,Collective Box,"Cloth Items Collection: Miscellaneous items, Box 30. Located on top of Mapcase 2",,,,,,,,,,
+*Car magnet with text ""Cultivate Peace"" made by The Hunger Site, 2005 [ac. 05A-013",,,,
+mem095,Not found,"Glass paperweight ""NO MORE WAR""",,,,
+mem096,Not found,Printing blocks: photos of A.J. Muste,,,,
+mem097,Not found,Portrait of Frederick J. Libby by Mary Ann Walburn; painted from photograph; winter 1973-1974,,,,
+mem098,Not found,Board game: World Without War ,,,,
+mem099,Not found,Peace prizes and awards; Nobel Peace Prize mug,,,,
+mem100,Not found,"Item #0058, Portrait of A.J. Muste by Sidney Chafetz, 23"" x 34"" black and white",,,,
+mem101,Peace Pilgrim Papers,Toothbrush and other items used by Peace Pilgrim,,,,
+mem102,Peace Pilgrim Papers,Clothing worn by Peace Pilgrim,,,,
+mem103,Pennsylvania Committee for Total Disarmament Records,Printers' blocks and plates.,,,,added to finding aid 3/30/23
+mem104,Pennsylvania Committee for Total Disarmament Records,Cash record of the Treasurer.,April 1931-June 1936,,,added to finding aid 3/30/23
+mem105,Peoples Mandate Committee Records,"Commemoration booklet with signatures from Chilean women, undated. ",,,,
+mem106,Philadelphia Committee in Solidarity With the People of El Salvador Records,Donation can from CISPES demonstration,,,,
+mem107,Philadelphia Committee in Solidarity With the People of El Salvador Records,CISPES Miscellaneous items (including paper masks and Salvadoran keepsakes),,,,
+mem108,Promoting Enduring Peace Records,"Radio for Peace International certificate of Appreciation awarded to Promoting Enduring Peace, Adin Ballou Peace Award presented to Howard and Alice Frazier","March 13, 1993",,,
+mem109,Swarthmore College Peace Collection Records,Asa Watkins' Drawing # 38-59,,,,
+mem110,Swarthmore College Peace Collection Records,Asa Watkins' Drawing #41-61,,,,
+mem111,Swarthmore College Peace Collection Records,Asa Watkins' Drawings #1-19,,,,
+mem112,Swarthmore College Peace Collection Records,Asa Watkins' Drawings #20-40,,,,
+mem113,Swarthmore College Peace Collection Records,"Asa Watkins' Drawings Photos (8"" x 10"") and Negatives: #38-60",,,,
+mem114,Swarthmore College Peace Collection Records,A replica of the Berlin Freedom Bell.,,/repositories/8/resources/11292,,
+mem115,Swarthmore College Peace Collection Records,"Peace flags, Swarthmore College.",,,,
+mem116,Universal Peace Union Records,"French Peace Medals presented to Alfred H. Love and the Universal Peace Union; medals, badges, and ticketbook from the St. Louis Exposition and the Rome Peace Congress.",,,,
+mem117,Universal Peace Union Records,Two large 19th century wooden signs,,,,"As of 2024 one of them is displayed in the SCPC workroom, and one is possibly wrapped and resides above the unprocessed AV material in the SCPC workroom"
+mem118,Universal Peace Union Records,One large 19th century wooden sign,,,,As of 2024 displayed in the Special Collections Reading Room
+mem119,Universal Peace Union Records,Wooden photo frame made by Prisoner in Eastern Penitentiary and presented to A.H. Love.,,,,
+mem120,Universal Peace Union Records,"""Scratch Book for Subscriptions.""",ca. 1885-1899,,,
+mem121,Universal Peace Union Records,"Alfred H Love's leather briefcase and Hannah Bailey's ribbon souvenir from the World's Fair, Chicago, ",1893,,,
+mem122,Universal Peace Union Records,Membership book ,1885-1920,,,
+mem123,Victor Paschkis Papers,AAAS Scientific Freed and Responsibility Award,1986,,,
+mem124,Walkabout Peace and Justice Records,Shoulderbag (with text in Thai) donated by Barbera Hirshkowitz,2007,,,
+mem125,Women's International League for Peace and Freedom Records,Chester Branch. 2 glass bottles,,,,
+mem126,Women's International League for Peace and Freedom Records,JAPA Award,,,,
+mem127,Women's International League for Peace and Freedom Records,"Patches made by women for Hiroshima Memorial Quilt (Removed from backing, ca 1980s",,,,
+mem128,Women's International League for Peace and Freedom Records,"Item #0058, Portrait of A.J. Muste by Sidney Chafetz, 23"" x 34"" black and white",,,,
+mem129,Women's International League for Peace and Freedom Records,"Metal sign: ""Women's International League for Peace & Freedom Pennsylvania Branch"" 24.25 x 8.25 x 1.25""",,,,As of 2024 one is displayed in the SCPC workroom (above sink cabinets); one is wrapped
+mem130,Women's International League for Peace and Freedom Records,Photograph album (with signatures) from Chicago meeting,1924,,,
+mem131,Women's International League for Peace and Freedom Records,"Award Plaque and Photograph of Santa Cruz City Youth Soccer Team, (sponsored by WILPF branch)",2007,,,
+mem132,Women's International League for Peace and Freedom Records,Origami Cranes ,,,,
+mem133,"World Movement for World Federal Government [for CDG-B France, see Mouvement Universel pour une Confédération Mondiale]","Small bowl with text ""Stop War. The 20E Century Achievement. Mouvement Universal Pour Un Gouvernment Federal Mondial, Montreux, 1947""",1947,/repositories/8/resources/11239,,
+mem134,Collective Box,"Cloth Items Collection: T-Shirts / Shirts, Box 29. Located on top of Mapcase 1 (bottom of basement ramp)",,,,
+mem135,Collective Box,"Cloth Items Collection: Miscellaneous items, Box 30. Located on top of Mapcase 2",,,,
